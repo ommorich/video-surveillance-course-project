@@ -1,0 +1,4 @@
+camera_id,object_name,status,last_event,has_archive
+CAM-001,Office entrance,online,motion,true
+CAM-002,Warehouse gate,online,none,true
+CAM-003,Parking area,offline,signal_lost,false
